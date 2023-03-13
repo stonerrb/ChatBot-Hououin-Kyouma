@@ -1,4 +1,4 @@
-# Project3_ChatBot
+# ChatBot
 
 # Introduction
 A normal chatbot made using Deep Learning (python). A guided project for future reference for making a Okabe Rintaru Chatbot. Will be labeled ref
